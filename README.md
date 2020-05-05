@@ -1,2 +1,2 @@
-# QTAnimation-colorAndProperty
-This is a project which implements the animation of color and property in QT
+# QTAnimationProject
+This is a project which implements all type of animation using QT
